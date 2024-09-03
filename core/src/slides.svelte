@@ -1,5 +1,11 @@
 <script lang="ts">
 	import { Presentation } from '@components';
+	import { startLoop } from './pipe/rememBer';
+
+	import { onMount } from 'svelte';
+	onMount(() => {
+		startLoop();
+	});
 </script>
 
 <Presentation>
@@ -46,6 +52,10 @@
 				</section>
 				<section data-background-image="https://studio.mrngroup.co/storage/app/media/Prambors/Editorial%204/ramai-peringatan-darurat-logo-garuda-pancasila-dengan-latar-biru-di-sosial-media-ada-apa-20240821172811.webp?tr=w-800" />
 			</section>
+		</div>
+
+		<div class="slides">
+			<section id="supers" />
 		</div>
 	</div>
 </Presentation>
