@@ -1,5 +1,8 @@
 <script lang="ts">
 	import { Presentation } from '@components';
+	import DeJavascheBank from "../src/img/ahaha.jpg";
+	import Citroen from "../src/img/yes.jpeg";
+	import Grave from "../src/img/ahihihi.png";
 </script>
 
 <Presentation>
@@ -16,13 +19,13 @@
 				<section data-background-image="https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/1/4/f/6/pdf_4f6f9180-fecd-012c-a2cb-0050569428b1.jpg">
 					<h1 style="font-size: 4rem; color:black">Uang kertas</h1>
 				</section>
-				<section data-background-image={'./img/ahaha.jpg'}></section>
+				<section data-background-image={DeJavascheBank}></section>
 				<section data-background-image="https://www.researchgate.net/publication/381290731/figure/fig1/AS:11431281250648852@1717957759280/Gambar-2-Peta-Kota-Surabaya-berdasarkan-Permukiman-Penduduk-Kulit-Putih-Eropa-blok.png">
 					<p style="font-size: 3rem; color: black">Kaart van de Hoofdstad Soerabaja en Omstreken</p>
 				</section>
 				<section data-background-image="https://www.researchgate.net/publication/381290731/figure/fig1/AS:11431281250648852@1717957759280/Gambar-2-Peta-Kota-Surabaya-berdasarkan-Permukiman-Penduduk-Kulit-Putih-Eropa-blok.png" />
-				<section data-background-image={'./img/yes.jpeg'}></section>
-				<section data-background-image={'./img/ahihihi.png'}></section>
+				<section data-background-image={Citroen}></section>
+				<section data-background-image={Grave}></section>
 				<section data-background-image="https://www.rumah123.com/seo-cms/assets/large_Balai_Kota_Surabaya_411323e29e/large_Balai_Kota_Surabaya_411323e29e.jpg"></section>
 				<section data-background-image="https://i.kym-cdn.com/photos/images/original/002/889/037/f2e.jpeg"></section>
 			</section>
