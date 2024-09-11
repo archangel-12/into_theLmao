@@ -1,7 +1,7 @@
 {
-	"name": "sub-bab-kelas-x",
+	"name": "hati2diinternet",
 	"private": true,
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
@@ -25,8 +25,8 @@
 		"svelte-check": "^4.0.1",
 		"tailwindcss": "^3.4.10",
 		"tslib": "^2.7.0",
-		"typescript": "^5.5.4",
-		"vite": "^5.4.3"
+		"typescript": "^5.6.2",
+		"vite": "^5.4.4"
 	},
 	"dependencies": {
 		"@fontsource-variable/jetbrains-mono": "^5.0.23",
