@@ -23,8 +23,8 @@
 				<section data-background-image="https://www.researchgate.net/publication/381290731/figure/fig1/AS:11431281250648852@1717957759280/Gambar-2-Peta-Kota-Surabaya-berdasarkan-Permukiman-Penduduk-Kulit-Putih-Eropa-blok.png" />
 				<section data-background-image={'./img/yes.jpeg'}></section>
 				<section data-background-image={'./img/ahihihi.png'}></section>
-				<section data-background-image="https://www.rumah123.com/seo-cms/assets/large_Balai_Kota_Surabaya_411323e29e/large_Balai_Kota_Surabaya_411323e29e.jpg" />
-				<section data-background-image="https://i.kym-cdn.com/photos/images/original/002/889/037/f2e.jpeg"></section
+				<section data-background-image="https://www.rumah123.com/seo-cms/assets/large_Balai_Kota_Surabaya_411323e29e/large_Balai_Kota_Surabaya_411323e29e.jpg"></section>
+				<section data-background-image="https://i.kym-cdn.com/photos/images/original/002/889/037/f2e.jpeg"></section>
 			</section>
 
 			<section>
@@ -34,7 +34,7 @@
 				<section data-background-image="https://roodebrugsoerabaia.com/wp-content/uploads/2016/07/hbs-asli.jpg"></section>
 				<section data-background-image="https://awsimages.detik.net.id/community/media/visual/2021/05/27/sman-5-surabaya-1_43.jpeg?w=1200"></section>
 				<section data-background-image="https://itb.ac.id/files/97/20131103/1383484291.jpg"></section>
-				<section data-background-image="https://assets.kompasiana.com/items/album/2021/02/17/marie-thomas-05-602d1293d541df0eb460b995.jpg?t=o&v=300"></section
+				<section data-background-image="https://assets.kompasiana.com/items/album/2021/02/17/marie-thomas-05-602d1293d541df0eb460b995.jpg?t=o&v=300"></section>
 				<section data-background-image="https://cms.disway.id/uploads/2531533c7fb577f5b5be1217e868b184.jpg"></section>
 			</section>
 
