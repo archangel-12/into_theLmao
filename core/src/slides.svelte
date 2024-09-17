@@ -66,5 +66,17 @@
 				<section data-background-image="https://images-tm.tempo.co/all/2024/07/25/866203/866203_720.jpg"></section>
 			</section>
 		</div>
+
+		<div class="slides">
+			<section>
+				<section data-background-image="https://pbs.twimg.com/media/GVtmr09a8AIK4JI?format=jpg&name=large">
+					<h1 style="font-size: 4rem;">Pergerakan Nasional Indonesia</h1>
+				</section>
+
+				<section>
+					<h1>Kebangkitan Nasionalisme Asia</h1>
+				</section>
+			</section>
+		</div>
 	</div>
 </Presentation>
