@@ -5,6 +5,9 @@
 	import Grave from "../src/img/ahihihi.png";
 	import antiJapaneseImperialism from "./img/2012_Anti-Japan_demonstrations2.jpg";
 	import filinoIndepenceDayCelebration from "./img/2020-06_ph-independence_01.jpg";
+	import sultanateOfEgypt from "./img/Flag_of_Egypt_(1882-1922).svg.png";
+	import turkTheSublime from "./img/turk the sublime.png";
+	import sovereignEgyptianSultanate from "./img/sovereign egyptian sultanate.jpg";
 </script>
 
 <Presentation>
@@ -165,7 +168,53 @@
 				<section data-background-image={filinoIndepenceDayCelebration}>
 					<h1 style="font-size: 4rem; color:black">Gerakan Nasionalisme di Filipina</h1>
 				</section>
-				<section></section>
+				<section data-background-image="https://www.bayaniart.com/wp-content/uploads/2016/05/Bayani-art-Philippines-Illustrados.jpg">
+					<h1 style="font-size:4rem; color:black">Kemunculan kaum terpelajar</h1>
+				</section>
+				<section data-background-image="https://www.bayaniart.com/wp-content/uploads/2016/05/Bayani-art-Philippines-Illustrados.jpg">
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2 style="font-size: 2rem;">The Ilustrados</h2>
+						<p>
+							Sama seperti Indonesia, Kemunculan Filipina sebagai jalur perdagangan membuat ide-ide liberalisme dari Eropa menumbuhkan
+							rasa Nasionalisme di kalangan kaum elit Filipina yang mengenyam pendidikan di Spanyol
+						</p>
+					</div>
+				</section>
+				<section data-background-image={sultanateOfEgypt}>
+					<h1 style="font-size:4rem; color:black">Gerakan Nasionalisme di Mesir</h1>
+				</section>
+				<section data-background-image={turkTheSublime}>
+					<h1 style="font-size: 4rem; color:black">The Veiled Protectorate</h1>
+				</section>
+				<section data-background-image={turkTheSublime} />
+				<section data-background-image="https://live.staticflickr.com/3345/3411728314_1eb84ae34d_z.jpg">
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2 style="font-size: 2rem;">Revolusi 1919</h2>
+						<p>
+							Penangkapan Saad Zaghloul dan pemimpin Partai Wafd lainnya pada 8 Maret 1919 memicu protes besar-besaran di seluruh Mesir. Revolusi ini melibatkan berbagai kelompok, termasuk mahasiswa, pekerja, dan perempuan dari berbagai latar belakang keyakinan
+						</p>
+					</div>
+				</section>
+				<section data-background-image="https://geopoliticalfutures.com/wp-content/uploads/2020/03/Arabic-Speaking-Population.png">
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2 style="font-size: 2rem;">Gerakan Pan-Arab</h2>
+						<p>
+							Pan-Arab adalah sebuah gerakan yang pada dasarnya menganjurkan bangsa ataupun negeri yang berbahasa Arab bersatu di bawah satu negara.
+							Tentu gerakan ini tidak akan pernah berhasil diwujudkan mengingat berbagai konflik dan kepentingan internal, belum lagi ditambah dengan
+							keberadaan מְדִינַת יִשְׂרָאֵל membuat gerakan ini semakin sulit tercapai...
+						</p>
+					</div>
+				</section>
+				<section data-background-image={sovereignEgyptianSultanate}>
+					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+						<h2 style="font-size: 2rem;">February 28, 1922</h2>
+						<p>
+							Whereas the relations between His Majesty's Government and Egypt are of vital interest to the British Empire;
+
+							- The British Protectorate over Egypt is terminated, and Egypt is declared to be an independent sovereign State
+						</p>
+					</div>
+				</section>
 			</section>
 		</div>
 
