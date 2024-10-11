@@ -1,11 +1,11 @@
 <script lang="ts">
 	import { Presentation } from '@components';
-	import DeJavascheBank from "../src/img/ahaha.jpg";
+	import DeJavascheBank from "/src/img/ahaha.jpg";
 	import Citroen from "../src/img/yes.jpeg";
 	import Grave from "../src/img/ahihihi.png";
 	import antiJapaneseImperialism from "./img/2012_Anti-Japan_demonstrations2.jpg";
 	import filinoIndepenceDayCelebration from "./img/2020-06_ph-independence_01.jpg";
-	import sultanateOfEgypt from "./img/Flag_of_Egypt_(1882-1922).svg.png";
+	import Egypt from "./img/Egypt_National_Day_Parade_m7437.jpg";
 	import turkTheSublime from "./img/turk the sublime.png";
 	import sovereignEgyptianSultanate from "./img/sovereign egyptian sultanate.jpg";
 </script>
@@ -152,8 +152,8 @@
 					</div>
 					<h2 style="margin-top: 20px; font-size: 4rem; color: black">Satyagraha</h2>
 				</section>
-				<section data-background-image="https://www.insightturkey.com/images/news/2018/01/29/ataturk-dua.jpg">
-					<h1 style="font-size: 4rem; color:burlywood">Gerakan Nasionalisme di Türkiye</h1>
+				<section data-background-image="https://www.pamukkaletours.com/wp-content/uploads/2023/10/Turkey-Republic-Day.jpg">
+					<h1 style="font-size: 4rem; color:white">Gerakan Nasionalisme di Türkiye</h1>
 				</section>
 				<section data-background-image="https://c4.wallpaperflare.com/wallpaper/467/402/484/mustafa-kemal-ataturk-wallpaper-preview.jpg">
 					<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
@@ -180,7 +180,7 @@
 						</p>
 					</div>
 				</section>
-				<section data-background-image={sultanateOfEgypt}>
+				<section data-background-image={Egypt}>
 					<h1 style="font-size:4rem; color:black">Gerakan Nasionalisme di Mesir</h1>
 				</section>
 				<section data-background-image={turkTheSublime}>
