@@ -7,7 +7,7 @@
 	import filinoIndepenceDayCelebration from "./img/2020-06_ph-independence_01.jpg";
 	import Egypt from "./img/Egypt_National_Day_Parade_m7437.jpg";
 	import turkTheSublime from "./img/turk the sublime.png";
-	import sovereignEgyptianSultanate from "./img/sovereign egyptian sultanate.jpg";
+	import sovereignEgyptianSultanate from "./img/sovereign egyptian sultanate.jpg"
 </script>
 
 <Presentation>
@@ -202,7 +202,13 @@
 			</section>
 
 			<section>
-				<section data-background-image="https://i.pinimg.com/originals/0c/ea/4d/0cea4dffc276d22ce1e3ac85092cfa9c.gif"/>
+				<section data-background-image="https://i.pinimg.com/originals/3e/ea/a2/3eeaa26d248b53f0e4cd8a738b7d289f.gif">
+					<p style="font-size: 3rem; color:black;">
+						You are now at the very end of this presentation site. By default, these presentation slides were originally generated 
+						by <a href="https://animotion.pages.dev/" style="color: blue;">Animotion</a>, with the script solely based on <a href="https://svelte.dev/" style="color: orangered;">Svelte</a>. 
+						This stack really helped me speed up the process from launch to deployment :)
+					</p>
+				</section>
 			</section>
 		</div>
 	</div>
