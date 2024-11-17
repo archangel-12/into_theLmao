@@ -14,7 +14,8 @@ all of the slides are generated from [animotion](https://animotion.pages.dev/), 
 - [vite](https://vite.dev/),
 - [gitpod](https://gitpod.io/),
 - [bun](https://bun.sh/), &
-- [vercel](https://vercel.com/dashboard)
+- [vercel](https://vercel.com/home)
 ___
+
 ### license
-this repo, along with the source code, are licensed under [CC-4.0.](/LICENSE)
+this repo, along with the source code, are licensed under [CC-4.0](/LICENSE)
